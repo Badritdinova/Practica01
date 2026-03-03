@@ -1,0 +1,10 @@
+D:\БадритдиноваП\SimpleCalculatorWinForms\SimpleCalculatorWinForms\bin\Debug\SimpleCalculatorWinForms.exe.config
+D:\БадритдиноваП\SimpleCalculatorWinForms\SimpleCalculatorWinForms\bin\Debug\SimpleCalculatorWinForms.exe
+D:\БадритдиноваП\SimpleCalculatorWinForms\SimpleCalculatorWinForms\bin\Debug\SimpleCalculatorWinForms.pdb
+D:\БадритдиноваП\SimpleCalculatorWinForms\SimpleCalculatorWinForms\obj\Debug\SimpleCalculatorWinForms.csproj.AssemblyReference.cache
+D:\БадритдиноваП\SimpleCalculatorWinForms\SimpleCalculatorWinForms\obj\Debug\SimpleCalculatorWinForms.Form1.resources
+D:\БадритдиноваП\SimpleCalculatorWinForms\SimpleCalculatorWinForms\obj\Debug\SimpleCalculatorWinForms.Properties.Resources.resources
+D:\БадритдиноваП\SimpleCalculatorWinForms\SimpleCalculatorWinForms\obj\Debug\SimpleCalculatorWinForms.csproj.GenerateResource.cache
+D:\БадритдиноваП\SimpleCalculatorWinForms\SimpleCalculatorWinForms\obj\Debug\SimpleCalculatorWinForms.csproj.CoreCompileInputs.cache
+D:\БадритдиноваП\SimpleCalculatorWinForms\SimpleCalculatorWinForms\obj\Debug\SimpleCalculatorWinForms.exe
+D:\БадритдиноваП\SimpleCalculatorWinForms\SimpleCalculatorWinForms\obj\Debug\SimpleCalculatorWinForms.pdb
